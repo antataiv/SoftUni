@@ -1,1 +1,1 @@
-Contains the homeworks from the Software University
+Contains some homeworks from the Software University.
